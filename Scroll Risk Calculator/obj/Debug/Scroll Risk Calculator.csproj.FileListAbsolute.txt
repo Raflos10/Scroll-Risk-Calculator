@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\Scroll Risk Calculator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\Scroll Risk Calculator_MarkupCompile.cache
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\Scroll Risk Calculator_MarkupCompile.lref
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\bin\Debug\Scroll Risk Calculator.exe.config
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\bin\Debug\Scroll Risk Calculator.exe
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\bin\Debug\Scroll Risk Calculator.pdb
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\Scroll Risk Calculator.g.resources
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\Scroll_Risk_Calculator.Properties.Resources.resources
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\Scroll Risk Calculator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\Scroll Risk Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\Scroll Risk Calculator.exe
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\Scroll Risk Calculator.pdb
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\CustomEntryWindow.g.cs
+C:\Users\Admin\source\repos\Scroll Risk Calculator\Scroll Risk Calculator\obj\Debug\CustomEntryWindow.baml
